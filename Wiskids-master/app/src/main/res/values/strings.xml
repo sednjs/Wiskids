@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Wiskids</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="counting_concept">
+        <b>What are Counting Numbers?</b>\n
+        Counting is the process of expressing the number of elements or objects that are given.\n
+        Counting numbers include natural numbers which can be counted and which are always positive.\n
+        Counting is essential in day-to-day life because we need to count the number of hours, the days, money, and so on.\n\n
+        <b>Counting in Numbers with Hands</b>\n
+        Counting numbers from 1 to 10 can also be done using our hands and fingers.\n
+        It is a known fact that visual maths helps children develop math skills faster.\n
+        Using hands and fingers acts as a link between numbers and their symbolic representation.\n
+        The following figure shows how the numbers from 1 to 10 can be easily represented with fingers.
+    </string>
+    <string name="calculating_concept">
+        <b>Addition</b>\n\n
+        Addition is a mathematical operation that explains the total amount of objects when they are put together in a collection.\n\n
+        <b>Subtraction</b>\n\n
+       Subtraction is the arithmetic operation that is the opposite of addition. Subtraction is used when you want to know how many objects are left in the group after you take away a certain amount of objects from that group.\n\n
+        <b>Multiplication</b>\n\n
+        Multiplication is the third basic math operation. When you multiply two numbers, this is the same as adding the number to itself as many times as the value of the other number is.\n\n
+        <b>Division</b>\n\n
+        Division is the fourth basic math operation. Basically, you can say that dividing means splitting objects into equal parts or groups.\n\n
+    </string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/lin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="68dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/HCF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Highest Common Factor by Prime Factorization"
+            android:textColor="@color/orange"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/HCFdef"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nTo find the Highest Common Factor of the given numbers by prime factorization,\nwe find the prime factors of those numbers. After finding the factors, we find the product of the prime factors that are common to each of the given numbers. For example, let us find the HCF of 50 and 75 by the prime factorization method."
+            android:textColor="@color/blue"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/HCFex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nThe prime factors of 50 = 2 × 5 × 5\nThe prime factors of 75 = 3 × 5 × 5\nThe common factors of 50 and 75 are 5 × 5."
+            android:textColor="@color/orange"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/HCFlast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nThus, Highest Common Factor of (50, 75) = 25."
+            android:textColor="@color/blue"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/LCM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nLowest Common Multiple by Prime Factorization"
+            android:textColor="@color/orange"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/LCMdef"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nTo calculate the Lowest Common Multiple of any given numbers using the prime factorization method, we follow the steps given below:"
+            android:textColor="@color/blue"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nStep 1: List the prime factors of the given numbers and note the common prime factors.\nStep 2: The Lowest Common Multiple of the given numbers = product of the common prime factors and the uncommon prime factors of the numbers."
+            android:textColor="@color/orange"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/lh_back1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="75dp"
+        android:src="@drawable/ic_baseline_arrow_back_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

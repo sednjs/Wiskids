@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.136" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_calc.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_concept_expl.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_count.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_dec_game.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_frac_dec.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_frac_game.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_lcmhcfgame.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_levelresult.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_leveltest.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_leveltest2.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_leveltest_game.xml" value="0.264" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/activity_result_page.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_calc_concept_.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_calc_game.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_calc_game_.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_count_concept_.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_count_game_.xml" value="0.264" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_lcmhcf_concept.xml" value="0.264" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/fragment_lcmhcf_game.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/instructions.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/result.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/bomyi/AndroidStudioProjects/Wiskids/app/src/main/res/layout/row.xml" value="0.24947916666666667" />
+        <entry key="..\:/git/Wiskids-master/app/src/main/res/layout/activity_dec_game.xml" value="0.25" />
+        <entry key="..\:/git/Wiskids-master/app/src/main/res/layout/activity_frac_dec.xml" value="0.25" />
+        <entry key="..\:/git/Wiskids-master/app/src/main/res/layout/activity_frac_game.xml" value="0.1" />
+        <entry key="..\:/git/Wiskids-master/app/src/main/res/layout/activity_leveltest_game.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/round_text.xml" value="0.16" />
+        <entry key="app/src/main/res/drawable/roundbutton.xml" value="0.1505" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1453125" />
+        <entry key="app/src/main/res/layout/instructions.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/lcm.xml" value="0.27918243408203125" />
+        <entry key="app/src/main/res/layout/lcmhcf.xml" value="0.24430847167968747" />
+        <entry key="app/src/main/res/layout/result.xml" value="0.1756591796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
